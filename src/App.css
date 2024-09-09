@@ -1,0 +1,41 @@
+body{
+    background-color: aliceblue;
+}
+
+input{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 200px;
+}
+.form{
+    margin-top: 5%;
+    margin-left: 30%;
+}
+.form .btn1{
+    margin-left: 12%;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: black;
+    color: white;
+    border-radius: 8px;
+    border: none;
+}
+.btn2{
+    margin-top: 30px;
+    padding: 10px 20px;
+    background-color: black;
+    color: white;
+    border-radius: 8px;
+    border: none;
+    margin-left: 1%;
+}
+.btn3{
+    margin-top: 30px;
+    padding: 10px 20px;
+    background-color: black;
+    color: white;
+    border-radius: 8px;
+    border: none;
+    margin-left: 1%;
+}
